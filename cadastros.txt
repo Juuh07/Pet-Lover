@@ -1,0 +1,4 @@
+['Cliente: ', 'Júlia dos Santos Martins', 'santosmartinsjulia05@gmail.com', 5780006105]
+['Pet: ', 'Bolinha', '2', 'Canídeo']
+['Cliente: ', 'Denise Maria dos Santos Silva', 'denisemariass@hotmail.com', 23916257153]
+['Pet: ', 'marrom', '1', 'Canídeo']
